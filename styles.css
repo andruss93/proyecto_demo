@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+}
+
+
+nav{
+    text-align: center;
+    background-color:whitesmoke;
+    padding: 5px;
+}
+
+main{
+    color: blue;
+    margin: 50px 20px;
+}
+nav img{
+     max-height: 50px;
+     margin: 5px;
+ }
+
+nav a{
+    padding: 10px;
+    display: block;
+    color: #000;
+    font-size: 1.3rem;
+}
+
+nav #menuAdmin{
+    color:blue;
+
+}
+
+nav a :hover{
+background-color:black(70, 70, 70);
+
+}
+header{
+font-size: 1.5rem;
+color: red;
+}
+
+header img{
+    width:100% ;
+}
+
+h1,h2{
+    text-align: center;
+}
+
+section{
+    margin-top: 50px;
+}
+
+button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+    display: block;
+    margin: auto;
+}
+form label{
+    display: block;
+    margin-top: 1Opx;
+    margin-bottom: 5px;
+}
+
+
+form input{
+    display: block;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid;
+}
+
+form textarea{
+    display: block;
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+form button{
+    margin-top: 20px;
+}
+
+footer{
+    height: 50px;
+    text-align: center;
+    color:gray;
+}
+
+.historia img{
+    width: 100%;
+}
+
+
+
